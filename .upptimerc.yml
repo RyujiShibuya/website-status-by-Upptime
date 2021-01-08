@@ -4,21 +4,8 @@ repo: website-status-by-Upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-  - name: Ryuji's Site
-    url: https://sites.google.com/aiu.ac.jp/rshibuya-test/%E3%83%9B%E3%83%BC%E3%83%A0
+  - name: Ryuji's Site(Secret)
+    url: $TEST_SITE
     
     
 
