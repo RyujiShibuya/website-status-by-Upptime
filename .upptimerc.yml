@@ -1,6 +1,7 @@
 # Change these first
 owner: ryujishibuya # Your GitHub username
 repo: website-status-by-Upptime # Your GitHub repository name
+user-agent: ryujishibuya
 
 # Add your sites here
 sites:
@@ -11,9 +12,6 @@ sites:
   - name: KOKUSAI Taro's Site(Sub1)
     url: https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home/sub1
     
-    
-    
-
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   #cname: demo.upptime.js.org
@@ -29,9 +27,6 @@ status-website:
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
@@ -40,3 +35,8 @@ workflowSchedule:
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
   uptime: "*/5 * * * *"
+  
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
+
