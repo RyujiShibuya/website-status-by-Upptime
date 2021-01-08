@@ -6,6 +6,11 @@ repo: website-status-by-Upptime # Your GitHub repository name
 sites:
   - name: Ryuji's Site(Secret)
     url: $TEST_SITE
+  - name: KOKUSAI Taro's Site(Home)
+    url: https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home
+  - name: KOKUSAI Taro's Site(Sub1)
+    url: https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home/sub1
+    
     
     
 
