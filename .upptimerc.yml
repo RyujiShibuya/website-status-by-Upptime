@@ -11,7 +11,6 @@ sites:
     url: https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home
     expectedStatusCodes:
       - 200
-      - 201
     
   - name: KOKUSAI Taro's Site(Sub1)
     url: https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home/sub1
