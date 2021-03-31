@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-1",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "100.00%",
     "time": 914,
-    "timeDay": 960,
-    "timeWeek": 850,
-    "timeMonth": 950,
+    "timeDay": 912,
+    "timeWeek": 868,
+    "timeMonth": 949,
     "timeYear": 914,
-    "dailyMinutesDown": {
-      "2021-01-12": 134,
-      "2021-01-08": 313
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KOKUSAI Taro's Site(Home)",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/sites.google.com",
     "slug": "kokusai-taro-s-site-home",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "100.00%",
     "time": 276,
-    "timeDay": 331,
-    "timeWeek": 327,
-    "timeMonth": 274,
+    "timeDay": 326,
+    "timeWeek": 335,
+    "timeMonth": 276,
     "timeYear": 276,
-    "dailyMinutesDown": {
-      "2021-01-12": 134,
-      "2021-01-08": 313
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "KOKUSAI Taro's Site(Sub1)",
@@ -52,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 143,
-    "timeDay": 177,
-    "timeWeek": 159,
-    "timeMonth": 143,
-    "timeYear": 143,
+    "time": 144,
+    "timeDay": 188,
+    "timeWeek": 165,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
       "2021-01-12": 134,
       "2021-01-08": 67
