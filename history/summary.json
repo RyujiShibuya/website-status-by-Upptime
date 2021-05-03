@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 1075,
-    "timeWeek": 925,
-    "timeMonth": 1010,
-    "timeYear": 935,
+    "time": 933,
+    "timeDay": 668,
+    "timeWeek": 890,
+    "timeMonth": 1006,
+    "timeYear": 933,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "kokusai-taro-s-site-home",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 253,
-    "timeWeek": 263,
-    "timeMonth": 276,
-    "timeYear": 278,
-    "dailyMinutesDown": {
-      "2021-05-02": 6
-    }
+    "time": 279,
+    "timeDay": 269,
+    "timeWeek": 276,
+    "timeMonth": 278,
+    "timeYear": 279,
+    "dailyMinutesDown": {}
   },
   {
     "name": "KOKUSAI Taro's Site(Sub1)",
@@ -44,17 +42,16 @@
     "slug": "kokusai-taro-s-site-sub1",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 143,
-    "timeDay": 127,
-    "timeWeek": 137,
-    "timeMonth": 141,
+    "timeDay": 130,
+    "timeWeek": 140,
+    "timeMonth": 140,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2021-05-02": 4,
       "2021-01-12": 134,
       "2021-01-08": 67
     }
