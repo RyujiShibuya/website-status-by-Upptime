@@ -4,7 +4,7 @@
     "url": "$SITE_ATOMS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 842,
     "timeYear": 861,
     "dailyMinutesDown": {
+      "2021-11-27": 0,
       "2021-06-12": 239,
       "2021-06-11": 61
     }
