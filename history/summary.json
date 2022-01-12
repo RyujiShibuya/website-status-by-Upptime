@@ -14,7 +14,7 @@
     "timeDay": 655,
     "timeWeek": 779,
     "timeMonth": 808,
-    "timeYear": 860,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2021-06-12": 239,
       "2021-06-11": 61
@@ -25,18 +25,20 @@
     "url": "https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home",
     "icon": "https://favicons.githubusercontent.com/sites.google.com",
     "slug": "kokusai-taro-s-site-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 269,
-    "timeWeek": 278,
-    "timeMonth": 302,
-    "timeYear": 288,
-    "dailyMinutesDown": {}
+    "time": 323,
+    "timeDay": 7197,
+    "timeWeek": 2009,
+    "timeMonth": 734,
+    "timeYear": 326,
+    "dailyMinutesDown": {
+      "2022-01-12": 0
+    }
   },
   {
     "name": "KOKUSAI Taro's Site(Sub1)",
@@ -48,7 +50,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 138,
     "timeWeek": 152,
