@@ -25,18 +25,20 @@
     "url": "https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home",
     "icon": "https://favicons.githubusercontent.com/sites.google.com",
     "slug": "kokusai-taro-s-site-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 423,
-    "timeWeek": 362,
-    "timeMonth": 359,
-    "timeYear": 387,
-    "dailyMinutesDown": {}
+    "time": 407,
+    "timeDay": 12360,
+    "timeWeek": 3354,
+    "timeMonth": 1107,
+    "timeYear": 451,
+    "dailyMinutesDown": {
+      "2022-09-30": 0
+    }
   },
   {
     "name": "KOKUSAI Taro's Site(Sub1)",
