@@ -25,19 +25,19 @@
     "url": "https://sites.google.com/gl.aiu.ac.jp/kokusaitarostestsite/home",
     "icon": "https://favicons.githubusercontent.com/sites.google.com",
     "slug": "kokusai-taro-s-site-home",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 407,
-    "timeDay": 12360,
-    "timeWeek": 3354,
-    "timeMonth": 1107,
+    "timeDay": 8384,
+    "timeWeek": 3029,
+    "timeMonth": 1086,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2022-09-30": 0
+      "2022-09-30": 25
     }
   },
   {
