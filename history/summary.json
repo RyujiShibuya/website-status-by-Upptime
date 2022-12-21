@@ -6,14 +6,14 @@
     "slug": "secret-site-1",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "96.87%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.95%",
     "time": 806,
-    "timeDay": 887,
-    "timeWeek": 791,
-    "timeMonth": 823,
+    "timeDay": 694,
+    "timeWeek": 787,
+    "timeMonth": 820,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2022-12-19": 45,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 410,
-    "timeDay": 283,
-    "timeWeek": 290,
-    "timeMonth": 292,
+    "timeDay": 267,
+    "timeWeek": 284,
+    "timeMonth": 288,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2022-09-30": 25
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 139,
+    "timeDay": 149,
     "timeWeek": 174,
-    "timeMonth": 187,
+    "timeMonth": 185,
     "timeYear": 180,
     "dailyMinutesDown": {}
   }
